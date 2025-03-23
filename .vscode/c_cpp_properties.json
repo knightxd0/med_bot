@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/user/ros2_ws/install/serial_motor_demo_msgs/include/**",
+        "/home/user/ros2_ws/install/serial/include/**",
+        "/home/user/ros2_ws/install/rosbridge_test_msgs/include/**",
+        "/home/user/ros2_ws/install/rosbridge_msgs/include/**",
+        "/home/user/ros2_ws/install/rosapi_msgs/include/**",
+        "/opt/ros/foxy/include/**",
+        "/home/user/ros2_ws/src/diffdrive_arduino/include/**",
+        "/home/user/ros2_ws/src/serial/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
